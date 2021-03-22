@@ -1,0 +1,14 @@
+{
+  "name": "ghost",
+  "version": "1.0.0",
+  "description": "ghost bot dersleri ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "FIRAT#9999",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
